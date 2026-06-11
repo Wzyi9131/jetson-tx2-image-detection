@@ -1,0 +1,16 @@
+build/
+*.engine
+*.plan
+*.tar.gz
+*.whl
+*.onnx
+*.uff
+*.jpg
+*.png
+!docs/**/*.png
+!docs/**/*.jpg
+!results/**/*.md
+output.*
+__pycache__/
+.DS_Store
+Thumbs.db
